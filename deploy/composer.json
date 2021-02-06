@@ -35,7 +35,7 @@
         "pulse00/ffmpeg-bundle": ">=0.5.2",
         "symfony/asset": "~2.8",
         "symfony/assetic-bundle": "~2.8",
-        "mheap/Silex-Assetic": "*"
+        "mheap/silex-assetic": "*"
     },
     "autoload": {
         "psr-0": {
