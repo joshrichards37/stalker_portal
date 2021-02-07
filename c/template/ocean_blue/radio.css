@@ -1,5 +1,5 @@
 #radio .playing_block{
-    width: 24px;
+    width: 12px;
     height: 21px;
     float: left;
     margin: 4px 0 0 4px;
@@ -8,7 +8,7 @@
 }
 
 #radio .active_playing_block{
-    width: 24px;
+    width: 12px;
     height: 31px;
     margin: 6px 2px 0 0;
     float:left;
@@ -17,7 +17,7 @@
 }
 
 #radio .paused_block{
-    width: 24px;
+    width: 12px;
     height: 21px;
     float: left;
     margin: 4px 0 0 4px;
@@ -26,7 +26,7 @@
 }
 
 #radio .active_paused_block{
-    width: 24px;
+    width: 12px;
     height: 31px;
     margin: 6px 2px 0 0;
     float:left;
